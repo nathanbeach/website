@@ -1,0 +1,15 @@
+@import 'variables.scss';
+
+body {
+  color: $base-font-color;
+  font-family: $base-font-family;
+  background-color: $base-background-color;
+  font-size: .8em;
+  padding: 1rem;
+  line-height: 1.5;
+}
+
+.footer {
+  margin: 2rem 0;
+  font-size: .75rem;
+}
